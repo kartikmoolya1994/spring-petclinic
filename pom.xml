@@ -212,10 +212,4 @@
       <url>http://www.apache.org/licenses/LICENSE-2.0</url>
     </license>
   </licenses>
-<distributionManagement>
-    <repository>
-        <name>Releases</name>
-        <url>http://192.168.135.111:8081/repository/Releases/</url>
-    </repository>
-</distributionManagement>
 </project>
